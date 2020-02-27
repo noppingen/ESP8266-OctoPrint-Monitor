@@ -1,6 +1,6 @@
 # ESP8266-OctoPrint-Monitor
 
-A basic OctoPrint-Monitor with ESP8266 and SSD1306 OLED
+A basic OctoPrint-Monitor with ESP8266 (I use an NodeMCU v2) and SSD1306 OLED
 
 ## Summary
 
@@ -20,8 +20,8 @@ Feel free to adopt to your needs.
  * `ThingPulse esp8266-oled-ssd1306`: https://github.com/ThingPulse/esp8266-oled-ssd1306
  * `NTPclient`: https://github.com/arduino-libraries/NTPClient
  * `Time`: https://playground.arduino.cc/Code/Time/
-* Set `YOUR_OCTOPRINT_HOST`, `YOUR_OCTOPRINT_API_KEY`, `YOUR_WIFI_SSID`, `YOUR_WIFI_PASS` and `YOUR_NTP_HOST`
-* Wire 3 pins
+* Set `YOUR_OCTOPRINT_HOST`, `YOUR_OCTOPRINT_API_KEY`, `YOUR_WIFI_SSID`, `YOUR_WIFI_PASS` and `YOUR_NTP_HOST`, `SCL` and `SDA` pin
+* Wire 4 pins
 * Print a case
 
 ## Images
