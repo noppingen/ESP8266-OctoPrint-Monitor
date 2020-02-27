@@ -1,6 +1,6 @@
-# ESP8266-OctoPrint-Monitor
+# OctoPrint-Monitor
 
-A basic OctoPrint-Monitor with ESP8266 (I use an NodeMCU v2) and SSD1306 OLED
+A basic OctoPrint-Monitor with ESP8266 (I use an NodeMCU v2, use `$random_hardware` that has WiFi and supports I2C) and an SSD1306 OLED
 
 ## Summary
 
