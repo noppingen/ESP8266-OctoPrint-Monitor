@@ -37,8 +37,8 @@ const char* NTP_SERVER = "YOUR_NTP_HOST";
 WiFiClient espClient;
 
 // I2C
-#define SCL_PIN 9  // GPIO 9
-#define SDA_PIN 10 // GPIO 10
+#define SCL_PIN D1 // Node MCU SCL pin (GPIO 5)
+#define SDA_PIN D2 // Node MCU SDA pin (GPIO 4)
 
 // NTP
 time_t TIMESTAMP;
