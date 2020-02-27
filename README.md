@@ -4,9 +4,9 @@ A basic OctoPrint-Monitor with ESP8266 (I use an NodeMCU v2) and SSD1306 OLED
 
 ## Summary
 
-Code for a (very) basic OctoPrint monitor with a SSD1306 OLED display, displays job information when printing. Has basic support for NTP and time handling, but is unused in the code. 
+Code for a (very) basic OctoPrint monitor with a SSD1306 OLED display. It displays job information when printing, is dimmed when OctoPrint is offline. 
 
-Feel free to adopt to your needs.
+The code has basic support for NTP and time handling included, but is unused in the code. Feel free to adopt to your needs.
 
 ## Copyright and sources
 
