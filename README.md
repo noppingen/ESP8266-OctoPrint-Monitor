@@ -26,7 +26,7 @@ Feel free to adopt to your needs.
   * `YOUR_WIFI_SSID`
   * `YOUR_WIFI_PASS`
   * `YOUR_NTP_HOST`
-  * `SCL`
+  * `SCL` pin
   * `SDA` pin
 * Wire 4 pins
 * Print a case
