@@ -14,6 +14,7 @@ Feel free to adopt to your needs.
 
 ## Get it running
 
+* Create a new PlatformIO project, paste `main.cpp`
 * Add required libraries: 
  * `ArduinoJson` version 6: https://github.com/bblanchon/ArduinoJson
  * `ThingPulse esp8266-oled-ssd1306`: https://github.com/ThingPulse/esp8266-oled-ssd1306
