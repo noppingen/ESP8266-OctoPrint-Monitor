@@ -1,0 +1,6 @@
+ESP          OLED
+---------------------
+GND          GND
+3v3          Vcc
+GPIO 9       SCL
+GPIO 10      SDA
