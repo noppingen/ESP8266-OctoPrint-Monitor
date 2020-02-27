@@ -29,7 +29,7 @@ The code has basic support for NTP and time handling included, but is unused in 
   * `SCL` pin
   * `SDA` pin
 * Wire 4 pins, 
-* When using an Node MCU, do **not** use GPIO9/10 for I2C, even if they seem suitable: https://www.letscontrolit.com/forum/viewtopic.php?t=1462
+* When using an Node MCU, do **not** use GPIO9/10 for I2C as I did in the pictures below:  https://www.letscontrolit.com/forum/viewtopic.php?t=1462
 * Print a case
 
 ## Images
