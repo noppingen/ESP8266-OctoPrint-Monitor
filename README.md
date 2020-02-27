@@ -22,3 +22,9 @@ Feel free to adopt to your needs.
 * Set `YOUR_OCTOPRINT_HOST`, `YOUR_OCTOPRINT_API_KEY`, `YOUR_WIFI_SSID`, `YOUR_WIFI_PASS` and `YOUR_NTP_HOST`
 * Wire 3 pins
 * Print a case
+
+## Images
+
+![Online](online.jpg)
+
+![Offline](offline.jpg)
